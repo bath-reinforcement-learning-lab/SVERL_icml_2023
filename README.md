@@ -36,7 +36,7 @@ For reinforcement learning systems to be widely adopted, their users must unders
 
 # Conclusion
 
-If you need help to use SVERL, please open an issue or contact djeb20@bath.ac.uk
+If you need help to use SVERL, please open an issue or contact djeb20@bath.ac.uk.
 
 # Citation
 
