@@ -27,10 +27,10 @@ For reinforcement learning systems to be widely adopted, their users must unders
       
 2. Install this repository and the dependencies using pip:
 
-      `conda create --name sverl python=3.10.9
-      conda activate sverl
-      cd sverl_icml_2023
-      pip install -r requirements.txt`
+      `conda create --name sverl python=3.10.9`
+      `conda activate sverl`
+      `cd sverl_icml_2023`
+      `pip install -r requirements.txt`
       
 # Overview
 
