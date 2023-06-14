@@ -35,9 +35,7 @@ $ pip install -r requirements.txt
 ```      
 # Overview
 
-This github enables the replication of the experiments for every domain in our paper: Shapley values applied to value functions, Shapley values applied to policies and SVERL.
-
-The results are the Shapley values for the specified states. They are saved in dictionaries as pickle files. 
+This github enables the replication of the experiments for every domain in our paper: Shapley values applied to value functions, Shapley values applied to policies and SVERL. The Shapley values for the specified states are saved in dictionaries as pickle files. 
 
 The dictionaries for SVERL and Shapley values applied to value functions have the following structure, {state 1: \[Shapley value for feature 1, Shapley value for feature 2, ...\], state 2: ...}
 
