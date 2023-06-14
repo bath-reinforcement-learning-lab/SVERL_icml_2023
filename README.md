@@ -62,9 +62,11 @@ If you need help to use SVERL, please open an issue or contact djeb20@bath.ac.uk
 
 If you use find this code useful for your research, please consider citing out work:
 
+```
 @inproceedings{beechey2023explaining,
       title={Explaining Reinforcement Learning with Shapley Values}, 
       author={Daniel Beechey and Thomas M. S. Smith and Özgür Şimşek},
       year={2023},
       booktitle={ICML}
 }
+```
