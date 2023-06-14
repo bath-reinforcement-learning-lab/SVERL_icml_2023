@@ -23,18 +23,28 @@ For reinforcement learning systems to be widely adopted, their users must unders
 
 1. Clone the repo:
 
-`$ git clone https://github.com/bath-reinforcement-learning-lab/SVERL_icml_2023.git`
+      `$ git clone https://github.com/bath-reinforcement-learning-lab/SVERL_icml_2023.git`
+      
+2. Install this repository and the dependencies using pip:
 
+      `conda create --name sverl python=3.10.9
+      conda activate sverl
+      cd sverl_icml_2023
+      pip install -r requirements.txt`
+      
+# Overview
 
-An XRL feature-influence method.
+# Conclusion
 
-If you use this respository, please cite the following:
+If you need help to use SVERL, please open an issue or contact djeb20@bath.ac.uk
 
-@misc{beechey2023explaining,
+# Citation
+
+If you use find this code useful for your research, please consider citing out work:
+
+@inproceedings{beechey2023explaining,
       title={Explaining Reinforcement Learning with Shapley Values}, 
       author={Daniel Beechey and Thomas M. S. Smith and Özgür Şimşek},
       year={2023},
-      eprint={2306.05810},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      booktitle={ICML}
 }
