@@ -23,7 +23,7 @@ For reinforcement learning systems to be widely adopted, their users must unders
 
 1. Clone the repo:
 
-$ git clone https://github.com/bath-reinforcement-learning-lab/SVERL_icml_2023.git
+`$ git clone https://github.com/bath-reinforcement-learning-lab/SVERL_icml_2023.git`
 
 
 An XRL feature-influence method.
