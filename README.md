@@ -47,7 +47,7 @@ The dictionaries for Shapley values applied to policies have the following struc
 
 ## Running experiment
 
-To run an experiment, navigate to the folder named after the environment and call:
+To run an experiment, navigate to the folder named after the environment and call run.py:
 
 ```bash
 $ cd gwa/
