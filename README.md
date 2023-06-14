@@ -1,4 +1,4 @@
-Code for paper: "Shapley Values for Explaining Reinforcement Learning"
+Code for paper: [Shapley Values for Explaining Reinforcement Learning](https://arxiv.org/abs/2306.05810) 
 
 An XRL feature-influence method.
 
