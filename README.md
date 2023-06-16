@@ -62,7 +62,7 @@ If you need help to use SVERL, please open an issue or contact djeb20@bath.ac.uk
 
 # Citation
 
-If you use find this code useful for your research, please consider citing out work:
+If you use find this code useful for your research, please consider citing our work:
 
 ```
 @inproceedings{beechey2023explaining,
